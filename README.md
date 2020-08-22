@@ -1,7 +1,8 @@
 ### Hi there 👋
+### Welcome to My Github	:pray:	:pray:
 
 My name is <b>Ankush Mishra</b>. <br>
-I am a <b>B-Tech Graduate in Computer Sciece & Engg</b><br>
+I am a <b>B-Tech Graduate in Computer Sciece & Engineering</b><br>
 I am a <b>full stack Web & Mobile App Developer</b>. <br>
 I love playing around with <b>codes</b> and hopefully creating something that makes people smile:innocent:. <br>
 
