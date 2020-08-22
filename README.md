@@ -33,3 +33,6 @@ I love playing around with <b>codes</b> and hopefully creating something that ma
 <i><b>Known Tools</b><i> <br>
 |VS Code|Atom|Web Storm|PHP Storm|Android Studio|Sublime Text|Git|FileZilla|
 |---|---|---|---|---|---|---|---|
+  
+[Click here](https://www.ankushmishra.com "My Portfolio") to see my portfolio <br>
+Mail me at [ankush@ankushmishra.com](mailto:ankush@ankushmishra.com) or [ankushmishra2903@gmail.com](mailto:ankushmishra2903@gmail.com)
