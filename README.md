@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to My Github	:pray:	:pray:
+### Welcome to My Github Profile	:pray:	:pray:
 
 My name is <b>Ankush Mishra</b>. <br>
 I am a <b>B-Tech Graduate in Computer Sciece & Engineering</b><br>
