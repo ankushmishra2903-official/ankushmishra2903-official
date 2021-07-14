@@ -35,4 +35,4 @@ I love playing around with <b>codes</b> and hopefully creating something that ma
 |---|---|---|---|---|---|---|---|
   
 [Click here](https://www.ankushmishra.com "My Portfolio") to see my portfolio <br>
-Mail me at [ankush@ankushmishra.com](mailto:ankush@ankushmishra.com) or [ankushmishra2903@gmail.com](mailto:ankushmishra2903@gmail.com)
+Mail me at [ankushmishra2903@gmail.com](mailto:ankushmishra2903@gmail.com)
